@@ -1,0 +1,22 @@
+[
+  {
+    "id": "KD-1001",
+    "fullName": "Admin User",
+    "username": "admin",
+    "password": "1234",
+    "phone": "07500000000",
+    "balance": 9000,
+    "role": "admin",
+    "status": "active"
+  },
+  {
+    "id": "KD-1002",
+    "fullName": "Test User",
+    "username": "user",
+    "password": "123456",
+    "phone": "07511111111",
+    "balance": 1000,
+    "role": "user",
+    "status": "active"
+  }
+]
