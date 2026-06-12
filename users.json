@@ -1,10 +1,10 @@
 [
   {
     "id": "KD-1001",
-    "fullName": "Admin User",
+    "fullName": "owner ayad",
     "username": "admin",
     "password": "1234",
-    "phone": "07500000000",
+    "phone": "07515453971",
     "balance": 9000,
     "role": "admin",
     "status": "active"
